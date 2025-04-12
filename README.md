@@ -155,6 +155,8 @@ src/main/java/com/elevator/
 ├── model/
 │   ├── Direction.java        # Elevator direction enum
 │   ├── Elevator.java         # Elevator implementation
+|   ├── Button.java           # Floor Button implementation
+|   ├── Floor.java            # Floor implementation
 │   └── Request.java          # Request model
 ├── service/
 │   └── ElevatorController.java # Elevator management
